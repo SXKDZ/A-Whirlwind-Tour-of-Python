@@ -2,7 +2,7 @@
 
 Jake VanderPlas 著，同济大学苹果开发俱乐部 译校
 
-点击[这里](https://github.com/SXKDZ/A-Whirlwind-Tour-of-Python/archive/master.zip)下载并访问`Book_Online.html`文件查看中文翻译版
+点击[这里](https://github.com/SXKDZ/A-Whirlwind-Tour-of-Python/archive/master.zip)下载并访问`Book/Index.html`文件查看中文翻译版
 
 *A Whirlwind Tour of Python* is a fast-paced introduction to essential
 components of the Python language for researchers and developers who are
